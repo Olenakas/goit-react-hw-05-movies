@@ -1,0 +1,13 @@
+.title{
+   text-align: center;
+   font-weight: normal;
+   padding-bottom: 20px;
+}
+.review{
+   width: 300px;
+   background: linear-gradient(210deg, rgba(204, 255, 166, 0.40) 0%, rgba(227, 147, 73, 0.40) 100%);
+   padding: 30px;
+   border: 1px;
+   border-radius: 12px;
+   height: 100%;
+}  

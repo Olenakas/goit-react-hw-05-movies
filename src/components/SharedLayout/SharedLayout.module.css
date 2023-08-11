@@ -1,0 +1,23 @@
+.header {
+display: flex;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   gap: 25px;
+   align-items: center;
+   align-self: stretch;
+   background: #070711;
+   border-bottom: 1px solid rgb(145, 145, 145);
+}
+
+.button {
+   text-decoration: none;  
+   margin-right: 10px;      
+   font-size: 15px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+}
+
+.button:hover{
+   color: #f76d05;
+}

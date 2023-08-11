@@ -1,0 +1,18 @@
+.loader-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: darkorange;
+}
+
+.loader {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.loader-dots {
+   color: #3fb568;
+   height: 80px;
+   width: 80px;
+}

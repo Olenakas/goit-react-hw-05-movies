@@ -1,0 +1,20 @@
+.no-photo-available {
+   width: 100px;
+   height: 150px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #1496d3;
+   font-weight: bold;
+}
+
+li {
+   list-style: none;
+   text-decoration: none;
+}
+
+.loader {  
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
